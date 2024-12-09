@@ -15,8 +15,7 @@ I craft digital solutions, specializing in Full-Stack development. With hands-on
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![LiteSQL](https://img.shields.io/badge/-LiteSQL-black?style=flat-square&logo=sqlite)
 ![Google APIs](https://img.shields.io/badge/-Google%20APIs-black?style=flat-square&logo=google)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 
 ### I'm currently...
 
