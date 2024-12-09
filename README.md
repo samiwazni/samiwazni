@@ -5,14 +5,16 @@
 I craft digital solutions, specializing in Full-Stack development. With hands-on experience in mid to large-scale projects, I enjoy the challenge of making ideas come to life. I love what I do, and my goal is to bring practical and innovative solutions to the table, always aiming for challenging.
 
 ### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-black?style=flat-square&logo=react)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![LiteSQL](https://img.shields.io/badge/-LiteSQL-black?style=flat-square&logo=sqlite)
+![Google APIs](https://img.shields.io/badge/-Google%20APIs-black?style=flat-square&logo=google)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 
