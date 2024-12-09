@@ -2,7 +2,7 @@
 
 ## Full Stack Engineer | Software Engineer | Front End | Back End
 
-I craft digital solutions, specializing in Full-Stack development. With hands-on experience in mid to large-scale projects, I enjoy the challenge of making ideas come to life. I love what I do, and my goal is to bring practical and innovative solutions to the table, always aiming for challenging.
+I craft digital solutions, specializing in Full-Stack development. With hands-on experience in mid to large-scale projects, I enjoy the challenge of making ideas come to life. I love what I do and aim to bring practical and innovative solutions to the table, always starving for challenges.
 
 ### Languages and Tools:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
