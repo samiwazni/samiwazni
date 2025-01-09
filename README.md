@@ -24,5 +24,3 @@ I craft digital solutions, specializing in Full-Stack development. With hands-on
 - 💬 Open to discussing web technologies and software architecture.
 - 📫 Reachable at: sami.wazni0@gmail.com.
 
-### Stats and Streaks
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiwazni&hide_progress=true)
