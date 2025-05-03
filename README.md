@@ -42,7 +42,7 @@ I build robust, scalable, and user-friendly web applications — from frontend i
 ### 💬 Let's Connect
 
 📫 Email me at **sami.wazni0@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/sami-wazni)
+🔗 [LinkedIn](https://www.linkedin.com/in/sami-wazni-91b333207/)
 
 ---
 
