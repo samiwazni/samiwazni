@@ -25,6 +25,7 @@ I build robust, scalable, and user-friendly web applications — from frontend i
 
 **Tools & Platforms**  
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=flat&logo=google&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
